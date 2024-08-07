@@ -1,0 +1,29 @@
+span{
+    font-size: 18px;
+    color: rgb(8, 81, 237);
+    padding-left: 10px;
+    font-weight: bold;
+}
+p{
+    text-align: left;
+    font-weight: 600;
+}
+
+.status{
+   padding: 20px 200px;
+   background: linear-gradient(lightblue,white);
+   border-radius: 10px;
+   margin-top: 10px;
+}
+
+.approval{
+    color:green;
+}
+.status-ui{
+    display: flex;
+    background: lightblue;
+    padding: 4px 50px;
+}
+.pending{
+    color: red;
+}
